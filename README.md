@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JUC, network**
 
-- 📝 I regularly write articles on [rikodev](rikodev.com)
+- 📝 I regularly write articles on [rikodev.com](rikodev.com)
 
 - 💬 Ask me about **Spring Cloud, Message queue**
 
